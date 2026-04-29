@@ -1,12 +1,11 @@
-// import router from "./router.tsx";
-// import { RouterProvider } from "react-router-dom";
 import { Reset } from "./GlobalStyle";
+import ToDoList from "./components/ToDoList";
 
 function App() {
   return (
     <>
       <Reset />
-      {/* <RouterProvider router={router} /> */}
+      <ToDoList />
     </>
   );
 }

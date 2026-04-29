@@ -19,6 +19,7 @@
     "react-dom": "^19.2.4",
     "react-helmet": "^6.1.0",
     "react-helmet-async": "^3.0.0",
+    "react-hook-form": "^7.74.0",
     "react-router-dom": "^6.30.3",
     "recoil": "^0.7.7",
     "styled-components": "^6.3.12",
